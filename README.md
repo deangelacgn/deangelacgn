@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 😄
+
+I am Deangela and I am a Software Developer at Thoughtworks. I love backend development, and learning new things in the space!
+
+🔭 I am currently learning Golang;
+♟️ Hobbies: Playing board games - either in-person or online - is my my hobby. Are you up for a match?
 
 <!--
 **deangelacgn/deangelacgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
