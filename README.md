@@ -1,8 +1,7 @@
 ### Hi there! 😄
 
-I am Deangela and I am a Software Developer at Thoughtworks. I love backend development, and learning new things in the space!
+I am Deangela and I am a Senior Software Developer. I love backend development, and learning new things in the space!
 
-- 🔭 I am currently learning Golang;
 - ♟️ Hobbies: Playing board games, either in-person or online. Are you up for a match?
 
 <!--
